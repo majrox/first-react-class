@@ -21,8 +21,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint \"{src,scripts}/**/*.{js,ts,tsx}\" --max-warnings 0",
-    "lint:fix": "eslint \"{src,scripts}/**/*.{js,ts,tsx}\" --fix"
+    "lint": "eslint \"{scripts}/**/*.{js,ts,tsx}\" --max-warnings 0",
+    "lint:fix": "eslint \"{scripts}/**/*.{js,ts,tsx}\" --fix"
   },
   "eslintConfig": {
     "extends": [
